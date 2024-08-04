@@ -1,2 +1,2 @@
-# newtab-old-firefox
-A version of chrome-old-new-tab for Firefox. Just use the extension New Tab Redirect to redirect to this website always: https://marko2155.strangled.net/newtab-old-firefox
+# newtab-old-chrome
+A version of chrome-old-new-tab which isn't an extension. If you want to, find some way to redirect to this website on startup of browser
